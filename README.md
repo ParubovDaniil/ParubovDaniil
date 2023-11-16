@@ -1,5 +1,5 @@
 <h1 align="center">Привет, меня зовут Даниил</h1>
-<h3 align="center">Учусь на 2ом курса Уральского Федерального Университета.</h3>
+<h3 align="center">Учусь на 2ом курсе Уральского Федерального Университета.</h3>
 <img aligh="right" alt="LiBing" width="400" src="https://i.ytimg.com/vi/D4cuirlmTQI/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXyhIMA8=&rs=AOn4CLDnOJzYWxUWvDGfcjC5Qz4EEmCAfQ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parubovdaniil&label=Profile%20views&color=0e75b6&style=flat" alt="parubovdaniil" /> </p>
